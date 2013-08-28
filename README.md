@@ -17,3 +17,7 @@ Here it is in terminal:
     cd sublime-abuse-the-force
     ./install.sh
 
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ViViDboarder/sublime-abuse-the-force/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
