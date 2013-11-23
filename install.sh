@@ -1,6 +1,7 @@
 #! /bin/bash
 
-SUBLIME_DIR=~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+#SUBLIME_DIR=~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+SUBLIME_DIR=~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 
 mkdir -p "$SUBLIME_DIR"
 
