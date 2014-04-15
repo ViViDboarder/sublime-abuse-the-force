@@ -1,0 +1,7 @@
+{
+    "cmd": ["abusetheforce deploy test \"${file}\""],
+    "shell": true,
+    "working_dir": "${project_path:${folder}}",
+    "path": "${path}",
+    "selector": ["source.cls"]
+}
